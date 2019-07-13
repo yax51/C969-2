@@ -1,0 +1,50 @@
+C:\Users\Patrick\source\repos\C969 Software 2\C969 Software 2\obj\Debug\C969 Software 2.csprojAssemblyReference.cache
+C:\Users\Patrick\source\repos\C969 Software 2\C969 Software 2\obj\Debug\C969_Software_2.login.resources
+C:\Users\Patrick\source\repos\C969 Software 2\C969 Software 2\obj\Debug\C969_Software_2.Properties.Resources.resources
+C:\Users\Patrick\source\repos\C969 Software 2\C969 Software 2\obj\Debug\C969 Software 2.csproj.GenerateResource.cache
+C:\Users\Patrick\source\repos\C969 Software 2\C969 Software 2\obj\Debug\C969 Software 2.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\source\repos\C969 Software 2\C969 Software 2\obj\Debug\C969_Software_2.AddAppointment.resources
+C:\Users\Patrick\source\repos\C969 Software 2\C969 Software 2\obj\Debug\C969_Software_2.Appointments.resources
+C:\Users\Patrick\source\repos\C969 Software 2\C969 Software 2\obj\Debug\C969_Software_2.CreateCustomer.resources
+C:\Users\Patrick\source\repos\C969 Software 2\C969 Software 2\obj\Debug\C969_Software_2.CustomerReports.resources
+C:\Users\Patrick\source\repos\C969 Software 2\C969 Software 2\obj\Debug\C969_Software_2.DeleteCustomer.resources
+C:\Users\Patrick\source\repos\C969 Software 2\C969 Software 2\obj\Debug\C969_Software_2.MainForm.resources
+C:\Users\Patrick\source\repos\C969 Software 2\C969 Software 2\obj\Debug\C969_Software_2.Schedules.resources
+C:\Users\Patrick\source\repos\C969 Software 2\C969 Software 2\obj\Debug\C969_Software_2.UpdateCustomer.resources
+C:\Users\Patrick\source\repos\C969 Software 2\C969 Software 2\obj\Debug\C969_Software_2.DeleteAppointment.resources
+C:\Users\Patrick\source\repos\C969 Software 2\C969 Software 2\obj\Debug\C969_Software_2.UpdateAppointment.resources
+C:\Users\Patrick\source\repos\C969 Software 2\C969 Software 2\bin\Debug\C969 Software 2.exe.config
+C:\Users\Patrick\source\repos\C969 Software 2\C969 Software 2\bin\Debug\C969 Software 2.exe
+C:\Users\Patrick\source\repos\C969 Software 2\C969 Software 2\bin\Debug\C969 Software 2.pdb
+C:\Users\Patrick\source\repos\C969 Software 2\C969 Software 2\bin\Debug\MySql.Data.dll
+C:\Users\Patrick\source\repos\C969 Software 2\C969 Software 2\bin\Debug\Google.Protobuf.dll
+C:\Users\Patrick\source\repos\C969 Software 2\C969 Software 2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Patrick\source\repos\C969 Software 2\C969 Software 2\bin\Debug\MySql.Data.xml
+C:\Users\Patrick\source\repos\C969 Software 2\C969 Software 2\obj\Debug\C969 Software 2.csproj.CopyComplete
+C:\Users\Patrick\source\repos\C969 Software 2\C969 Software 2\obj\Debug\C969 Software 2.exe
+C:\Users\Patrick\source\repos\C969 Software 2\C969 Software 2\obj\Debug\C969 Software 2.pdb
+C:\Users\pdavis\Downloads\C969 Software 2\C969 Software 2\C969 Software 2\bin\Debug\C969 Software 2.exe.config
+C:\Users\pdavis\Downloads\C969 Software 2\C969 Software 2\C969 Software 2\bin\Debug\C969 Software 2.exe
+C:\Users\pdavis\Downloads\C969 Software 2\C969 Software 2\C969 Software 2\bin\Debug\C969 Software 2.pdb
+C:\Users\pdavis\Downloads\C969 Software 2\C969 Software 2\C969 Software 2\bin\Debug\Google.Protobuf.dll
+C:\Users\pdavis\Downloads\C969 Software 2\C969 Software 2\C969 Software 2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pdavis\Downloads\C969 Software 2\C969 Software 2\C969 Software 2\bin\Debug\MySql.Data.xml
+C:\Users\pdavis\Downloads\C969 Software 2\C969 Software 2\C969 Software 2\obj\Debug\C969 Software 2.csprojAssemblyReference.cache
+C:\Users\pdavis\Downloads\C969 Software 2\C969 Software 2\C969 Software 2\obj\Debug\C969_Software_2.AddAppointment.resources
+C:\Users\pdavis\Downloads\C969 Software 2\C969 Software 2\C969 Software 2\obj\Debug\C969_Software_2.Appointments.resources
+C:\Users\pdavis\Downloads\C969 Software 2\C969 Software 2\C969 Software 2\obj\Debug\C969_Software_2.CreateCustomer.resources
+C:\Users\pdavis\Downloads\C969 Software 2\C969 Software 2\C969 Software 2\obj\Debug\C969_Software_2.CustomerReports.resources
+C:\Users\pdavis\Downloads\C969 Software 2\C969 Software 2\C969 Software 2\obj\Debug\C969_Software_2.DeleteAppointment.resources
+C:\Users\pdavis\Downloads\C969 Software 2\C969 Software 2\C969 Software 2\obj\Debug\C969_Software_2.DeleteCustomer.resources
+C:\Users\pdavis\Downloads\C969 Software 2\C969 Software 2\C969 Software 2\obj\Debug\C969_Software_2.Login.resources
+C:\Users\pdavis\Downloads\C969 Software 2\C969 Software 2\C969 Software 2\obj\Debug\C969_Software_2.MainForm.resources
+C:\Users\pdavis\Downloads\C969 Software 2\C969 Software 2\C969 Software 2\obj\Debug\C969_Software_2.Properties.Resources.resources
+C:\Users\pdavis\Downloads\C969 Software 2\C969 Software 2\C969 Software 2\obj\Debug\C969_Software_2.Schedules.resources
+C:\Users\pdavis\Downloads\C969 Software 2\C969 Software 2\C969 Software 2\obj\Debug\C969_Software_2.UpdateAppointment.resources
+C:\Users\pdavis\Downloads\C969 Software 2\C969 Software 2\C969 Software 2\obj\Debug\C969_Software_2.UpdateCustomer.resources
+C:\Users\pdavis\Downloads\C969 Software 2\C969 Software 2\C969 Software 2\obj\Debug\C969 Software 2.csproj.GenerateResource.cache
+C:\Users\pdavis\Downloads\C969 Software 2\C969 Software 2\C969 Software 2\obj\Debug\C969 Software 2.csproj.CoreCompileInputs.cache
+C:\Users\pdavis\Downloads\C969 Software 2\C969 Software 2\C969 Software 2\obj\Debug\C969 Software 2.csproj.CopyComplete
+C:\Users\pdavis\Downloads\C969 Software 2\C969 Software 2\C969 Software 2\obj\Debug\C969 Software 2.exe
+C:\Users\pdavis\Downloads\C969 Software 2\C969 Software 2\C969 Software 2\obj\Debug\C969 Software 2.pdb
+C:\Users\pdavis\Downloads\C969 Software 2\C969 Software 2\C969 Software 2\bin\Debug\MySql.Data.dll
